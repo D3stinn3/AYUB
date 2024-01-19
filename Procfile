@@ -1,0 +1,1 @@
+web: pip install --upgrade pip && gunicorn Family.wsgi --log-file -
